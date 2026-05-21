@@ -1,0 +1,327 @@
+html {
+  font-size: 37.5px;
+}
+
+.page {
+  position: relative;
+  width: 51.2rem;
+  height: 28.8rem;
+  overflow: hidden;
+}
+
+.section_1 {
+  height: 28.8rem;
+  background: url(./img/SketchPng86caa12f576dad68a7cf5edce85f73ec995445303f9feb2bdf865c0cc2442ae6.png)
+    100% no-repeat;
+  background-size: 100% 100%;
+  width: 51.2rem;
+}
+
+.block_1 {
+  background-color: rgba(0, 0, 0, 0.6);
+  height: 28.8rem;
+  width: 51.2rem;
+}
+
+.box_1 {
+  background-color: rgba(255, 255, 255, 1);
+  border-radius: 8px;
+  width: 18.054rem;
+  height: 16.107rem;
+  margin: 5.707rem 0 0 16.587rem;
+}
+
+.block_7 {
+  width: 16.454rem;
+  height: 14.507rem;
+  margin-left: 0.8rem;
+}
+
+.block_8 {
+  width: 8.534rem;
+  height: 12.907rem;
+  margin-top: 0.8rem;
+}
+
+.section_7 {
+  width: 1.494rem;
+  height: 0.587rem;
+}
+
+.block_3 {
+  background-color: rgba(79, 93, 255, 1);
+  border-radius: 2px;
+  width: 0.107rem;
+  height: 0.427rem;
+  margin-top: 0.08rem;
+}
+
+.text_1 {
+  width: 1.174rem;
+  height: 0.587rem;
+  overflow-wrap: break-word;
+  color: rgba(0, 0, 0, 1);
+  font-size: 0.426rem;
+  font-family: PingFangSC-Medium;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 0.587rem;
+}
+
+.text-wrapper_1 {
+  border-radius: 4px;
+  height: 1.067rem;
+  border: 1px solid rgba(235, 235, 235, 1);
+  margin-top: 0.267rem;
+  width: 8.534rem;
+}
+
+.text_2 {
+  width: 1.894rem;
+  height: 0.534rem;
+  overflow-wrap: break-word;
+  color: rgba(51, 51, 51, 1);
+  font-size: 0.373rem;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 0.534rem;
+  margin: 0.267rem 0 0 0.267rem;
+}
+
+.section_8 {
+  width: 2.64rem;
+  height: 0.587rem;
+  margin-top: 0.64rem;
+}
+
+.box_3 {
+  background-color: rgba(79, 93, 255, 1);
+  border-radius: 2px;
+  width: 0.107rem;
+  height: 0.427rem;
+  margin-top: 0.08rem;
+}
+
+.text_3 {
+  width: 2.32rem;
+  height: 0.587rem;
+  overflow-wrap: break-word;
+  color: rgba(0, 0, 0, 1);
+  font-size: 0.426rem;
+  font-family: PingFangSC-Medium;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 0.587rem;
+}
+
+.paragraph_1 {
+  width: 8.534rem;
+  height: 1.6rem;
+  overflow-wrap: break-word;
+  color: rgba(0, 0, 0, 1);
+  font-size: 0.373rem;
+  text-align: left;
+  line-height: 0.534rem;
+  margin-top: 0.214rem;
+}
+
+.text-wrapper_2 {
+  border-radius: 4px;
+  height: 4.054rem;
+  border: 1px solid rgba(235, 235, 235, 1);
+  margin-top: 0.267rem;
+  width: 8.534rem;
+}
+
+.text_4 {
+  width: 1.494rem;
+  height: 0.534rem;
+  overflow-wrap: break-word;
+  color: rgba(51, 51, 51, 1);
+  font-size: 0.373rem;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 0.534rem;
+  margin: 0.267rem 0 0 0.267rem;
+}
+
+.section_9 {
+  width: 2.4rem;
+  height: 0.587rem;
+  margin-top: 0.64rem;
+}
+
+.block_4 {
+  background-color: rgba(79, 93, 255, 1);
+  border-radius: 2px;
+  width: 0.107rem;
+  height: 0.427rem;
+  margin-top: 0.08rem;
+}
+
+.text_5 {
+  width: 2.08rem;
+  height: 0.587rem;
+  overflow-wrap: break-word;
+  color: rgba(0, 0, 0, 1);
+  font-size: 0.426rem;
+  font-family: PingFangSC-Medium;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 0.587rem;
+}
+
+.section_10 {
+  width: 8.534rem;
+  height: 1.067rem;
+  margin-top: 0.214rem;
+}
+
+.text-wrapper_3 {
+  border-radius: 4px;
+  height: 1.067rem;
+  border: 1px solid rgba(235, 235, 235, 1);
+  width: 4rem;
+}
+
+.text_6 {
+  width: 0.96rem;
+  height: 0.534rem;
+  overflow-wrap: break-word;
+  color: rgba(51, 51, 51, 1);
+  font-size: 0.373rem;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 0.534rem;
+  margin: 0.267rem 0 0 0.267rem;
+}
+
+.text-wrapper_4 {
+  border-radius: 4px;
+  height: 1.067rem;
+  border: 1px solid rgba(235, 235, 235, 1);
+  width: 4rem;
+}
+
+.text_7 {
+  width: 0.907rem;
+  height: 0.534rem;
+  overflow-wrap: break-word;
+  color: rgba(51, 51, 51, 1);
+  font-size: 0.373rem;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 0.534rem;
+  margin: 0.267rem 0 0 0.267rem;
+}
+
+.section_6 {
+  box-shadow: 0px 0px 4px 0px rgba(0, 0, 0, 0.1);
+  background-color: rgba(255, 255, 255, 1);
+  border-radius: 4px;
+  width: 2.134rem;
+  height: 0.854rem;
+  margin-top: 0.267rem;
+}
+
+.image-text_2 {
+  width: 1.707rem;
+  height: 0.454rem;
+  margin: 0.214rem 0 0 0.214rem;
+}
+
+.block_5 {
+  width: 0.32rem;
+  height: 0.32rem;
+  background: url(./img/SketchPng91566fc75300483bb6bf762d64092eca17caad80476b2c817e91ab4be3210e9f.png)
+    100% no-repeat;
+  background-size: 100% 100%;
+  margin-top: 0.08rem;
+}
+
+.text-group_1 {
+  width: 1.28rem;
+  height: 0.454rem;
+  overflow-wrap: break-word;
+  color: rgba(79, 93, 255, 1);
+  font-size: 0.32rem;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 0.454rem;
+}
+
+.image_1 {
+  width: 0.027rem;
+  height: 14.507rem;
+  margin-left: 0.64rem;
+}
+
+.text-wrapper_5 {
+  background-color: rgba(252, 252, 254, 1);
+  border-radius: 4px;
+  height: 12.907rem;
+  border: 1px solid rgba(235, 235, 235, 1);
+  width: 6.614rem;
+  margin: 0.8rem 0 0 0.64rem;
+}
+
+.text_8 {
+  width: 4.027rem;
+  height: 0.8rem;
+  overflow-wrap: break-word;
+  color: rgba(220, 0, 0, 1);
+  font-size: 0.586rem;
+  font-family: PingFangSC-Medium;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 0.8rem;
+  margin: 0.747rem 0 0 1.494rem;
+}
+
+.block_6 {
+  box-shadow: 0px -1px 6px 0px rgba(0, 32, 88, 0.08);
+  background-color: rgba(255, 255, 255, 1);
+  border-radius: 0px 0px 8px 8px;
+  width: 18.054rem;
+  height: 1.6rem;
+}
+
+.text-wrapper_6 {
+  background-color: rgba(238, 239, 255, 1);
+  border-radius: 17px;
+  height: 0.907rem;
+  width: 2.667rem;
+  margin: 0.347rem 0 0 11.867rem;
+}
+
+.text_9 {
+  width: 1.2rem;
+  height: 0.534rem;
+  overflow-wrap: break-word;
+  color: rgba(79, 93, 255, 1);
+  font-size: 0.373rem;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 0.534rem;
+  margin: 0.187rem 0 0 0.747rem;
+}
+
+.text-wrapper_7 {
+  background-color: rgba(79, 93, 255, 1);
+  border-radius: 17px;
+  height: 0.907rem;
+  width: 2.667rem;
+  margin: 0.347rem 0.427rem 0 0.427rem;
+}
+
+.text_10 {
+  width: 1.387rem;
+  height: 0.534rem;
+  overflow-wrap: break-word;
+  color: rgba(255, 255, 255, 1);
+  font-size: 0.373rem;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 0.534rem;
+  margin: 0.187rem 0 0 0.64rem;
+}

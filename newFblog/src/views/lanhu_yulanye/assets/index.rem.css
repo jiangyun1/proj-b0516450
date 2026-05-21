@@ -1,0 +1,211 @@
+html {
+  font-size: 37.5px;
+}
+
+.page {
+  background-color: rgba(255, 255, 255, 1);
+  position: relative;
+  width: 51.2rem;
+  height: 28.8rem;
+  overflow: hidden;
+}
+
+.group_1 {
+  background-color: rgba(180, 99, 243, 1);
+  width: 51.2rem;
+  height: 0.854rem;
+}
+
+.box_1 {
+  width: 0.4rem;
+  height: 0.374rem;
+  background: url(./img/SketchPnge0b8e62ef650ecc07ae07daf73d8b4ec20a7f2d7c1bd0f7fe8f141906f2f0784.png)
+    100% no-repeat;
+  background-size: 100% 100%;
+  margin: 0.24rem 0 0 19.387rem;
+}
+
+.text_1 {
+  width: 11.2rem;
+  height: 0.454rem;
+  overflow-wrap: break-word;
+  color: rgba(255, 255, 255, 1);
+  font-size: 0.32rem;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 0.454rem;
+  margin: 0.214rem 0 0 0.107rem;
+}
+
+.box_2 {
+  width: 0.374rem;
+  height: 0.374rem;
+  background: url(./img/SketchPnge00e90910ac009235ea6c1eb72dd16999b2e1553451207af416c256e321124b5.png)
+    100% no-repeat;
+  background-size: 100% 100%;
+  margin: 0.24rem 17.36rem 0 2.374rem;
+}
+
+.group_2 {
+  width: 51.2rem;
+  height: 26.107rem;
+}
+
+.section_1 {
+  box-shadow: 0px 1px 6px 0px rgba(0, 32, 88, 0.08);
+  background-color: rgba(255, 255, 255, 1);
+  width: 51.2rem;
+  height: 1.707rem;
+}
+
+.image_1 {
+  width: 4.747rem;
+  height: 1.574rem;
+  margin: 0.08rem 0 0 9.44rem;
+}
+
+.box_3 {
+  width: 5.334rem;
+  height: 0.694rem;
+  background: url(./img/SketchPng8b2975f79f8265c4297166fc2ff234ebfadebc91be16283bbccaeb34fec0c4ee.png)
+    100% no-repeat;
+  background-size: 100% 100%;
+  margin: 0.507rem 0 0 17.174rem;
+}
+
+.box_4 {
+  position: relative;
+  width: 0.96rem;
+  height: 0.8rem;
+  margin: 0.374rem 0 0 0.534rem;
+}
+
+.block_1 {
+  width: 0.64rem;
+  height: 0.64rem;
+  background: url(./img/SketchPngf9c8e6412cf415e040e154bdfb81e129452464e94144aa216505500fc24af2c5.png)
+    100% no-repeat;
+  background-size: 100% 100%;
+  margin-top: 0.16rem;
+}
+
+.text-wrapper_1 {
+  background-color: rgba(219, 0, 0, 1);
+  border-radius: 6px;
+  height: 0.32rem;
+  width: 0.534rem;
+  position: absolute;
+  left: 0.427rem;
+  top: 0;
+}
+
+.text_2 {
+  width: 0.454rem;
+  height: 0.374rem;
+  overflow-wrap: break-word;
+  color: rgba(255, 255, 255, 1);
+  font-size: 0.266rem;
+  text-align: right;
+  white-space: nowrap;
+  line-height: 0.374rem;
+  margin: -0.054rem 0 0 0.027rem;
+}
+
+.box_5 {
+  width: 0.64rem;
+  height: 0.64rem;
+  background: url(./img/SketchPng4155a5ed98a7916f4404c56c5c88eeb5e2afb1625e5896a7d5ce22a256e86d69.png)
+    100% no-repeat;
+  background-size: 100% 100%;
+  margin: 0.534rem 0 0 0.214rem;
+}
+
+.box_6 {
+  width: 0.64rem;
+  height: 0.64rem;
+  background: url(./img/SketchPng7b8b061a1857cfbb355709b4d163e460cc1b0ec519669bce3b6a3584a48672ab.png)
+    100% no-repeat;
+  background-size: 100% 100%;
+  margin: 0.534rem 0 0 0.534rem;
+}
+
+.box_7 {
+  width: 0.854rem;
+  height: 0.854rem;
+  background: url(./img/SketchPng62a939982c84d37da49c8b5a5ac6993c94e9394602cad36dbc564a11a4ddb07e.png) -0.027rem -0.027rem
+    no-repeat;
+  background-size: 0.907rem 0.907rem;
+  margin: 0.427rem 9.6rem 0 0.534rem;
+}
+
+.text_3 {
+  width: 14rem;
+  height: 0.747rem;
+  overflow-wrap: break-word;
+  color: rgba(0, 0, 0, 1);
+  font-size: 0.533rem;
+  font-family: PingFangSC-Medium;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 0.747rem;
+  margin: 1.067rem 0 0 12.267rem;
+}
+
+.paragraph_1 {
+  width: 26.667rem;
+  height: 22.4rem;
+  overflow-wrap: break-word;
+  color: rgba(51, 51, 51, 1);
+  font-size: 0.426rem;
+  text-align: left;
+  line-height: 0.747rem;
+  margin: 0.774rem 0 0.587rem 12.267rem;
+}
+
+.group_3 {
+  box-shadow: 0px -1px 6px 0px rgba(0, 32, 88, 0.08);
+  background-color: rgba(255, 255, 255, 1);
+  width: 50.987rem;
+  height: 1.867rem;
+  margin-top: -0.026rem;
+}
+
+.text-wrapper_2 {
+  background-color: rgba(79, 93, 255, 1);
+  border-radius: 16px;
+  height: 0.854rem;
+  width: 5.334rem;
+  margin: 0.507rem 0 0 19.627rem;
+}
+
+.text_4 {
+  width: 1.254rem;
+  height: 0.534rem;
+  overflow-wrap: break-word;
+  color: rgba(255, 255, 255, 1);
+  font-size: 0.373rem;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 0.534rem;
+  margin: 0.16rem 0 0 2.054rem;
+}
+
+.text-wrapper_3 {
+  background-color: rgba(238, 239, 255, 1);
+  border-radius: 16px;
+  height: 0.854rem;
+  width: 5.334rem;
+  margin: 0.507rem 19.627rem 0 0;
+}
+
+.text_5 {
+  width: 0.854rem;
+  height: 0.534rem;
+  overflow-wrap: break-word;
+  color: rgba(79, 93, 255, 1);
+  font-size: 0.373rem;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 0.534rem;
+  margin: 0.16rem 0 0 2.24rem;
+}

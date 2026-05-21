@@ -1,0 +1,207 @@
+.page {
+  position: relative;
+  width: 100vw;
+  height: 56.25vw;
+  overflow: hidden;
+}
+
+.box_1 {
+  height: 56.25vw;
+  background: url(./img/SketchPng12f394ac21839216f646fc90b9dc21ab71fad33643bbedcda585eb5612b92ec8.png)
+    100% no-repeat;
+  background-size: 100% 100%;
+  width: 100vw;
+}
+
+.group_1 {
+  background-color: rgba(0, 0, 0, 0.6);
+  width: 100vw;
+  height: 56.25vw;
+}
+
+.block_1 {
+  width: 1.25vw;
+  height: 1.25vw;
+  background: url(./img/SketchPngc7dd6ec409a099b219b6c30e67509710461d5895bada51d3e72564faaacbe425.png)
+    100% no-repeat;
+  background-size: 100% 100%;
+  margin: 16.25vw 0 0 58.64vw;
+}
+
+.block_2 {
+  background-color: rgba(255, 255, 255, 1);
+  border-radius: 8px;
+  width: 19.8vw;
+  height: 17.14vw;
+  justify-content: flex-center;
+  margin: 0.52vw 0 21.09vw 40.1vw;
+}
+
+.text_1 {
+  width: 15.53vw;
+  height: 1.31vw;
+  overflow-wrap: break-word;
+  color: rgba(51, 51, 51, 1);
+  font-size: 0.93vw;
+  font-family: PingFangSC-Medium;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 1.31vw;
+  margin: 1.56vw 0 0 1.56vw;
+}
+
+.group_2 {
+  background-color: rgba(0, 0, 0, 0.04);
+  border-radius: 4px;
+  width: 16.67vw;
+  height: 2.5vw;
+  margin: 1.04vw 0 0 1.56vw;
+}
+
+.image-text_5 {
+  width: 5.32vw;
+  height: 1.05vw;
+  margin: 0.72vw 0 0 0.78vw;
+}
+
+.image_1 {
+  width: 1.1vw;
+  height: 1.05vw;
+}
+
+.text-group_1 {
+  width: 3.6vw;
+  height: 1.05vw;
+  overflow-wrap: break-word;
+  color: rgba(51, 51, 51, 1);
+  font-size: 0.72vw;
+  font-family: PingFangSC-Medium;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 1.05vw;
+}
+
+.image-text_6 {
+  width: 3.86vw;
+  height: 1.05vw;
+  margin: 0.72vw 0.52vw 0 6.19vw;
+}
+
+.text-group_2 {
+  width: 2.61vw;
+  height: 1.05vw;
+  overflow-wrap: break-word;
+  color: rgba(51, 51, 51, 1);
+  font-size: 0.72vw;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 1.05vw;
+}
+
+.group_3 {
+  width: 0.84vw;
+  height: 0.84vw;
+  background: url(./img/SketchPngdd97dcc3735ec30e7685eecc49987c4f08f618bce86ad9828f5322b283aafc7e.png)
+    100% no-repeat;
+  background-size: 100% 100%;
+  margin-top: 0.11vw;
+}
+
+.group_4 {
+  background-color: rgba(0, 0, 0, 0.04);
+  border-radius: 4px;
+  width: 16.67vw;
+  height: 2.5vw;
+  margin: 1.04vw 0 0 1.56vw;
+}
+
+.image-text_7 {
+  width: 5.06vw;
+  height: 1.05vw;
+  margin: 0.72vw 0 0 0.78vw;
+}
+
+.thumbnail_1 {
+  width: 1.05vw;
+  height: 1.05vw;
+}
+
+.text-group_3 {
+  width: 3.34vw;
+  height: 1.05vw;
+  overflow-wrap: break-word;
+  color: rgba(51, 51, 51, 1);
+  font-size: 0.72vw;
+  font-family: PingFangSC-Medium;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 1.05vw;
+}
+
+.group_5 {
+  width: 0.84vw;
+  height: 0.84vw;
+  background: url(./img/SketchPngdd97dcc3735ec30e7685eecc49987c4f08f618bce86ad9828f5322b283aafc7e.png)
+    100% no-repeat;
+  background-size: 100% 100%;
+  margin: 0.83vw 0.52vw 0 9.47vw;
+}
+
+.group_6 {
+  background-color: rgba(0, 0, 0, 0.04);
+  border-radius: 4px;
+  width: 16.67vw;
+  height: 2.5vw;
+  margin: 1.04vw 0 0 1.56vw;
+}
+
+.image-text_8 {
+  width: 6.98vw;
+  height: 1.05vw;
+  margin: 0.72vw 0 0 0.57vw;
+}
+
+.image_2 {
+  width: 1.46vw;
+  height: 0.94vw;
+  margin-top: 0.06vw;
+}
+
+.text-group_4 {
+  width: 5.06vw;
+  height: 1.05vw;
+  overflow-wrap: break-word;
+  color: rgba(51, 51, 51, 1);
+  font-size: 0.72vw;
+  font-family: PingFangSC-Medium;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 1.05vw;
+}
+
+.group_7 {
+  width: 0.84vw;
+  height: 0.84vw;
+  background: url(./img/SketchPngdd97dcc3735ec30e7685eecc49987c4f08f618bce86ad9828f5322b283aafc7e.png)
+    100% no-repeat;
+  background-size: 100% 100%;
+  margin: 0.83vw 0.52vw 0 7.76vw;
+}
+
+.text_2 {
+  width: 10.47vw;
+  height: 1.05vw;
+  overflow-wrap: break-word;
+  color: rgba(51, 51, 51, 1);
+  font-size: 0.72vw;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 1.05vw;
+  margin: 1.04vw 0 0 1.56vw;
+}
+
+.image_3 {
+  width: 9.69vw;
+  height: 0.06vw;
+  margin: -0.05vw 0 1.56vw 1.56vw;
+}

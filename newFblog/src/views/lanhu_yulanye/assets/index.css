@@ -1,0 +1,207 @@
+.page {
+  background-color: rgba(255, 255, 255, 1);
+  position: relative;
+  width: 1920px;
+  height: 1080px;
+  overflow: hidden;
+}
+
+.group_1 {
+  background-color: rgba(180, 99, 243, 1);
+  width: 1920px;
+  height: 32px;
+}
+
+.box_1 {
+  width: 15px;
+  height: 14px;
+  background: url(./img/SketchPnge0b8e62ef650ecc07ae07daf73d8b4ec20a7f2d7c1bd0f7fe8f141906f2f0784.png)
+    100% no-repeat;
+  background-size: 100% 100%;
+  margin: 9px 0 0 727px;
+}
+
+.text_1 {
+  width: 420px;
+  height: 17px;
+  overflow-wrap: break-word;
+  color: rgba(255, 255, 255, 1);
+  font-size: 12px;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 17px;
+  margin: 8px 0 0 4px;
+}
+
+.box_2 {
+  width: 14px;
+  height: 14px;
+  background: url(./img/SketchPnge00e90910ac009235ea6c1eb72dd16999b2e1553451207af416c256e321124b5.png)
+    100% no-repeat;
+  background-size: 100% 100%;
+  margin: 9px 651px 0 89px;
+}
+
+.group_2 {
+  width: 1920px;
+  height: 979px;
+}
+
+.section_1 {
+  box-shadow: 0px 1px 6px 0px rgba(0, 32, 88, 0.08);
+  background-color: rgba(255, 255, 255, 1);
+  width: 1920px;
+  height: 64px;
+}
+
+.image_1 {
+  width: 178px;
+  height: 59px;
+  margin: 3px 0 0 354px;
+}
+
+.box_3 {
+  width: 200px;
+  height: 26px;
+  background: url(./img/SketchPng8b2975f79f8265c4297166fc2ff234ebfadebc91be16283bbccaeb34fec0c4ee.png)
+    100% no-repeat;
+  background-size: 100% 100%;
+  margin: 19px 0 0 644px;
+}
+
+.box_4 {
+  position: relative;
+  width: 36px;
+  height: 30px;
+  margin: 14px 0 0 20px;
+}
+
+.block_1 {
+  width: 24px;
+  height: 24px;
+  background: url(./img/SketchPngf9c8e6412cf415e040e154bdfb81e129452464e94144aa216505500fc24af2c5.png)
+    100% no-repeat;
+  background-size: 100% 100%;
+  margin-top: 6px;
+}
+
+.text-wrapper_1 {
+  background-color: rgba(219, 0, 0, 1);
+  border-radius: 6px;
+  height: 12px;
+  width: 20px;
+  position: absolute;
+  left: 16px;
+  top: 0;
+}
+
+.text_2 {
+  width: 17px;
+  height: 14px;
+  overflow-wrap: break-word;
+  color: rgba(255, 255, 255, 1);
+  font-size: 10px;
+  text-align: right;
+  white-space: nowrap;
+  line-height: 14px;
+  margin: -2px 0 0 1px;
+}
+
+.box_5 {
+  width: 24px;
+  height: 24px;
+  background: url(./img/SketchPng4155a5ed98a7916f4404c56c5c88eeb5e2afb1625e5896a7d5ce22a256e86d69.png)
+    100% no-repeat;
+  background-size: 100% 100%;
+  margin: 20px 0 0 8px;
+}
+
+.box_6 {
+  width: 24px;
+  height: 24px;
+  background: url(./img/SketchPng7b8b061a1857cfbb355709b4d163e460cc1b0ec519669bce3b6a3584a48672ab.png)
+    100% no-repeat;
+  background-size: 100% 100%;
+  margin: 20px 0 0 20px;
+}
+
+.box_7 {
+  width: 32px;
+  height: 32px;
+  background: url(./img/SketchPng62a939982c84d37da49c8b5a5ac6993c94e9394602cad36dbc564a11a4ddb07e.png) -1px -1px
+    no-repeat;
+  background-size: 34px 34px;
+  margin: 16px 360px 0 20px;
+}
+
+.text_3 {
+  width: 525px;
+  height: 28px;
+  overflow-wrap: break-word;
+  color: rgba(0, 0, 0, 1);
+  font-size: 20px;
+  font-family: PingFangSC-Medium;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 28px;
+  margin: 40px 0 0 460px;
+}
+
+.paragraph_1 {
+  width: 1000px;
+  height: 840px;
+  overflow-wrap: break-word;
+  color: rgba(51, 51, 51, 1);
+  font-size: 16px;
+  text-align: left;
+  line-height: 28px;
+  margin: 29px 0 22px 460px;
+}
+
+.group_3 {
+  box-shadow: 0px -1px 6px 0px rgba(0, 32, 88, 0.08);
+  background-color: rgba(255, 255, 255, 1);
+  width: 1912px;
+  height: 70px;
+  margin-top: -1px;
+}
+
+.text-wrapper_2 {
+  background-color: rgba(79, 93, 255, 1);
+  border-radius: 16px;
+  height: 32px;
+  width: 200px;
+  margin: 19px 0 0 736px;
+}
+
+.text_4 {
+  width: 47px;
+  height: 20px;
+  overflow-wrap: break-word;
+  color: rgba(255, 255, 255, 1);
+  font-size: 14px;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 20px;
+  margin: 6px 0 0 77px;
+}
+
+.text-wrapper_3 {
+  background-color: rgba(238, 239, 255, 1);
+  border-radius: 16px;
+  height: 32px;
+  width: 200px;
+  margin: 19px 736px 0 0;
+}
+
+.text_5 {
+  width: 32px;
+  height: 20px;
+  overflow-wrap: break-word;
+  color: rgba(79, 93, 255, 1);
+  font-size: 14px;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 20px;
+  margin: 6px 0 0 84px;
+}
